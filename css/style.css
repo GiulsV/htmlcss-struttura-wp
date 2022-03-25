@@ -9,8 +9,8 @@ main .containeryellow{
 }
 main .containerblue{
     background-color: blue;
-    /* height: 400px; */
-    height: fit-content ;
+    height: 400px;
+    /* height: fit-content ; */
     margin-top: 15px;
     padding-bottom: 15px;
 }
@@ -30,10 +30,9 @@ main .containerblue{
 .column {
     float: left;
     padding: 10px;
-    height: fit-content;
-    /* height: 300px;  */
+    /* height: fit-content; */
+    height: 300px; 
     background-color: aqua;
-    /* border: 2px solid black; */
     margin-top: 15px;
 }
   
