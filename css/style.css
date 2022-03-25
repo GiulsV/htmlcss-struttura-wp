@@ -1,0 +1,22 @@
+header{
+    background-color: pink;
+    height: 100px;
+    margin-bottom: 15px;
+}
+main .containeryellow{
+    background-color: yellow;
+    height: 200px;
+}
+main .containerblue{
+    background-color: blue;
+    height: 600px;
+    margin-top: 15px;
+}
+
+
+
+footer{
+    background-color: violet;
+    height: 80px;
+    margin-top: 15px;
+}
