@@ -1,3 +1,10 @@
+/* border-box include padding e border nella width e in height */
+* {
+    box-sizing: border-box;
+    width:auto;
+
+}
+
 header{
     background-color: rgba(229,121,230,255);
     height: 100px;
@@ -27,10 +34,6 @@ main .containerblue{
     /* height: fit-content; */
 }
 
-/* border-box include padding e border nella width e in height */
-* {
-    box-sizing: border-box;
-}
 
  /* colonne valori comuni a tutte e tre altezza fissa  */
  /* float */
